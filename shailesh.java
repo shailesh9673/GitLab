@@ -18,7 +18,7 @@ public class shailesh {
         	 
          }
          catch(Exception e) {
-        	 System.out.println("number cannot divided by zero");
+        	 System.out.println("number cannot divided by zero.the divider should be always positive number");
          }
 	}
 
