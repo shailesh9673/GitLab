@@ -1,7 +1,7 @@
 package Ass_Exception1;
 import java.util.Scanner;
 
-public class Division_1 {
+public class shailesh {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -18,7 +18,7 @@ public class Division_1 {
         	 
          }
          catch(Exception e) {
-        	 System.out.println("number cannot divided by zeo divider should be positive integer");
+        	 System.out.println("number cannot divided by zero");
          }
 	}
 
